@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<div><%= request.getAttribute("writer") %></div>
+	<a href="/changePage">방문 횟수 추적하기</a>
+	<br>
+	<a href="/productList">상품 목록</a>
 </body>
 </html>
